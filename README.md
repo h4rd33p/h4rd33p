@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @h4rd33p
-- 👀 I’m interested in python, Java, and AWS based projects
-- 🌱 I’m currently learning ML with SageMaker
+- 👀 I’m interested in python, DevOps and AWS based projects
+- 🌱 I’m currently learning Kubernetes
 - 💞️ I’m looking to collaborate on python/AWS based projects
 - 📫 How to reach me: twitter @iharrydhillon
 
